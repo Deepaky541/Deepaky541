@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 👨‍💻 Some of my projects are available at [https://luxury-chimera-ed5d55.netlify.app/](https://luxury-chimera-ed5d55.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://deepak-yadav-portfolio.netlify.app/](https://deepak-yadav-portfolio.netlify.app/)
 
 - 📫 How to reach me **deepaky541.dy@gmail;.com**
 
