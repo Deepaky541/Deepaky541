@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://deepak-yadav-portfolio.netlify.app/](https://deepak-yadav-portfolio.netlify.app/)
 
-- 📫 How to reach me **deepaky541.dy@gmail;.com**
+- 📫 How to reach me ** deepaky541.dy@gmail.com **
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EWDt7GFAndIt252Z5vJGX0LG-gQLcb6I/view?usp=sharing](https://drive.google.com/file/d/1EWDt7GFAndIt252Z5vJGX0LG-gQLcb6I/view?usp=sharing)
 
