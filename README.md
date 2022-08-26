@@ -3,7 +3,7 @@
 
 <h3 align="center">A full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</h3>
 
-- 🔭 I’m currently working on **Web development**
+
 
 - 👨‍💻 Some of my projects are available at [https://deepak-yadav-portfolio.netlify.app/](https://deepak-yadav-portfolio.netlify.app/)
 
